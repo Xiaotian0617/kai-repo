@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.knowm.xchange</groupId>
+  <artifactId>xchange-parent</artifactId>
+  <version>4.3.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20181206.055959</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20181206055959</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.3.4-20181206.055959-3</value>
+        <updated>20181206055959</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

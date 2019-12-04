@@ -45,7 +45,7 @@ _仓库为公开项目，上传的jar包中一定不能带有密码或核心业�
 <dependency>
     <groupId>com.ailu.paas</groupId>
     <artifactId>notice-client</artifactId>
-    <version>1.8-RELEASE</version>
+    <version>3.0-RELEASE</version>
 </dependency>
 ```
 

@@ -7,7 +7,7 @@ _仓库为公开项目，上传的jar包中一定不能带有密码或核心业�
 ```xml
 <repositories>
     <repository>
-        <id>lib-repo</id>
+        <id>kai-repo</id>
         <url>https://raw.githubusercontent.com/Xiaotian0617/kai-repo/master/library</url>
     </repository>
 </repositories>

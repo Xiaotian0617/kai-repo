@@ -81,7 +81,7 @@ _仓库为公开项目，上传的jar包中一定不能带有密码或核心业�
 1. git clone本仓库到本地, 生成本地目录
 2. 在自己的库项目下使用maven部署命令，将参数修改为本地目录  
    `mvn deploy -DaltDeploymentRepository=kai-repo::default::file:<本地目录>/library`  
-   在idea或者eclipse里进行命令时无需加mvn参数
+   在idea或者eclipse里进行命令时无需加mvn参数  
    `deploy -DaltDeploymentRepository=kai-repo::default::file:<本地目录>/library`
 3. git提交本地目录下文件并push到服务器
 4. 修改README.md文档，或在根目录新建文档说明库的使用方法和依赖

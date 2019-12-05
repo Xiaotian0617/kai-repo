@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ba52691-f57d-41e8-9def-0790f89d4e84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UShv1E0ox1rXPh52HONTJpC0d4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../private/my-tools" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ba52691-f57d-41e8-9def-0790f89d4e84" name="Default Changelist" comment="" />
+      <created>1575356130845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575356130845</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1575356693771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575356693771</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1575517177101</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575517177101</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2212" y="226" key="CommitChangelistDialog2" timestamp="1575524806488">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2084" y="531" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1575356680140" />
+    <state x="2212" y="226" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1575524806488" />
+    <state x="2240" y="693" key="FileChooserDialogImpl" timestamp="1575357155573">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state x="2240" y="693" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1575357155573" />
+    <state x="2381" y="161" key="SettingsEditor" timestamp="1575517057363">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="161" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1575517057363" />
+    <state x="2155" y="371" key="Vcs.Push.Dialog.v2" timestamp="1575517178376">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2052" y="671" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1575356696286" />
+    <state x="2155" y="371" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1575517178376" />
+    <state x="2560" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1575524786310">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2560" y="343" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1575524786310" />
+    <state x="2577" y="310" key="git4idea.merge.GitPullDialog" timestamp="1575517063889">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2577" y="310" key="git4idea.merge.GitPullDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1575517063889" />
+  </component>
+</project>

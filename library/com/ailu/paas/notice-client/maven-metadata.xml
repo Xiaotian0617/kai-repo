@@ -3,10 +3,10 @@
   <groupId>com.ailu.paas</groupId>
   <artifactId>notice-client</artifactId>
   <versioning>
-    <release>3.2-RELEASE</release>
+    <release>3.3-RELEASE</release>
     <versions>
-      <version>3.2-RELEASE</version>
+      <version>3.3-RELEASE</version>
     </versions>
-    <lastUpdated>20191206044841</lastUpdated>
+    <lastUpdated>20191206061630</lastUpdated>
   </versioning>
 </metadata>

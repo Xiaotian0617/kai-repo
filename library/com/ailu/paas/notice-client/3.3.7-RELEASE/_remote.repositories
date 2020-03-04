@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 04 11:08:17 CST 2020
+notice-client-3.3.7-RELEASE-sources.jar>=
+notice-client-3.3.7-RELEASE.jar>=
+notice-client-3.3.7-RELEASE.pom>=

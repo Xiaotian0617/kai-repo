@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ailu.paas</groupId>
+  <artifactId>notice-client</artifactId>
+  <versioning>
+    <release>3.3.7-RELEASE</release>
+    <versions>
+      <version>3.3.6-RELEASE</version>
+      <version>3.3.7-RELEASE</version>
+    </versions>
+    <lastUpdated>20200304030817</lastUpdated>
+  </versioning>
+</metadata>
